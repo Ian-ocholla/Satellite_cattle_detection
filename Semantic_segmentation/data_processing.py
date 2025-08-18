@@ -131,7 +131,7 @@ print(np.shape(Ytest))
 print(np.shape(Ytrain_meta))
 print(np.shape(Ytest_meta))
 
-#Check the percentage of cattle pixels with respect to non-wildebeest
+#Check the percentage of cattle pixels with respect to non-cattle
 c_px=len(Ytrain[Ytrain==1])/(len(Ytrain[Ytrain==1])+len(Ytrain[Ytrain==0]))
 nonc_px=len(Ytrain[Ytrain==0])/(len(Ytrain[Ytrain==1])+len(Ytrain[Ytrain==0]))
 print("Pixel percentage of cattle = " + str(c_px* 100)) #We can observe that the percentage of cattle pixels are really less 
