@@ -1,3 +1,5 @@
+## Towards monitoring livestock using satellite imagery: Transferability of object detection and segmentation models in Kenyan rangelands
+
 Over the past four decades, rising demand for livestock products in Africa has led to increased stocking rates 
 resulting in overgrazing and land degradation. As the population is projected to rise, the need for sustainable 
 livestock management is more urgent than ever, yet efforts are hindered by the lack of accurate, up-to-date livestock counts. 
@@ -16,3 +18,5 @@ their performance dropped significantly on the coarser resolution (0.4 m) Kapiti
 In addition, multi-stage transfer learning improved segmentation models recall by 9.8 % in heterogeneous bushland site. 
 Our results highlight that the integration of multi-source imagery and deep learning can help in large scale livestock monitoring, 
 which is crucial in implementing sustainable rangeland management.
+
+link [https://doi.org/10.1016/j.ophoto.2025.100106](https://doi.org/10.1016/j.ophoto.2025.100106) 
